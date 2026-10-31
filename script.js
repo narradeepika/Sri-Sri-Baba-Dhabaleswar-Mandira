@@ -363,7 +363,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 /* ========================================
-   SUPPORT SECTION - JAVASCRIPT
+           SUPPORT SECTION
 ======================================== */
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -419,7 +419,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 /* ==========================================
-   DHABALESWAR MANDIRA — HELPDESK POPUP
+             HELPDESK POPUP
 ========================================== */
 
 document.addEventListener("DOMContentLoaded", function () {
